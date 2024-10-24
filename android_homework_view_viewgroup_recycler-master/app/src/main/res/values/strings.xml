@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">android_homework</string>
+
+    <string name="main_screen_title">Трекер финансов</string>
+    <string name="main_screen_operations_title">Операции</string>
+
+    <string name="statistic_card_title">Статистика</string>
+    <string name="statistic_card_subtitle">Всего денег на картах</string>
+</resources>
